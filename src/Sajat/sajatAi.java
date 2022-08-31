@@ -1,4 +1,4 @@
-package ai;
+package ai.Sajat;
 import enums.Iranyok;
 import enums.PalyaElemek;
 import interfaces.Adat;

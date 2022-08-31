@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Snake">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Snake.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/Snake.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-18.0.1.1" />
+    </SOURCES>
+  </library>
+</component>
